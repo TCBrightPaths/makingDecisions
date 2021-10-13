@@ -5,7 +5,7 @@
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
 */
-//hey
+
 let lovesCode = true
 if(lovesCode = true) {
     console.log("I love to code!")
