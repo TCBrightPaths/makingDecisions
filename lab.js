@@ -1,4 +1,4 @@
-////////// PROBLEM 1 //////////
+ ////////// PROBLEM 1 //////////
 /*
   Create a variable called 'lovesCode' and set it equal to true. 
   Check to see if 'lovesCode' is equal to true or false. 
@@ -6,7 +6,12 @@
   If it is not, console log "Coding has its challenges."
 */
 
-//CODE HERE
+let lovesCode = true
+if(lovesCode = true) {
+    console.log("I love to code!")
+} else {
+    console.log("Coding has its challenges.")
+}
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
