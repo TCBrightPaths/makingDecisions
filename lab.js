@@ -51,7 +51,7 @@ if(amysBirthYear === brittanisBirthYear) {
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55
+let temperature = 65
 let rain = true
 
 /*
